@@ -12,9 +12,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-
 ---
-
 
 ## 📚 THEORY
 
@@ -49,18 +47,17 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
 ---
-
-
-## 📊 OBSERVATION AND CALCULATION
-
-- 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
-
 ---
-## Tabulation
+## 📊 OBSERVATION AND CALCULATION
+
+<p align="center"><img src="https://github.com/user-attachments/assets/5dbe651a-4cd0-41c6-ab20-ff437c55f12c" width="400" alt="App Preview"></p>
+
 ## Result
+
+The fiber supports 4 Linearly Polarized (LP) modes at the given parameters.
